@@ -1,59 +1,161 @@
-bairro,nome,latitude,longitude
-Barra Funda,"Hospital Santo Antônio, 150, Avenida Santo Antônio, Barra Funda, Votorantim, Região Imediata de Sorocaba, Região Metropolitana de Sorocaba, Região Geográfica Intermediária de Sorocaba, São Paulo, Região Sudeste, 18114-345, Brasil",-23.5485177,-47.4366026
-Bela Vista,"UPA do Bela Vista, Rua Alto Juruá, Vila Santa Rosa, Jardim Petrópolis, Bauru, Região Imediata de Bauru, Região Geográfica Intermediária de Bauru, São Paulo, Região Sudeste, 17064-120, Brasil",-22.3088338,-49.0897145
-Liberdade,"Hospital Leforte Liberdade, 209, Rua Barão de Iguape, Liberdade, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 01507-000, Brasil",-23.5579301,-46.6348139
-Pari,"Hospital Nossa Senhora do Pari, 234, Rua Hannemann, Canindé, Pari, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 03031-040, Brasil",-23.5319426,-46.6211648
-Santa Cecília,"NotreDame Intermédica Hospital e Pronto Socorro Santa Cecilia, 151, Praça Marechal Deodoro, Santa Cecília, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 01150-011, Brasil",-23.5353166,-46.6545716
-Sé,"Hospital, Avenida Professor Francisco Morato, Cidade Jardim, Morumbi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 05513-100, Brasil",-23.580373,-46.7107458
-Casa Verde,"Hospital Casa Verde, 719, Rua Relíquia, Casa Verde Baixa, Casa Verde, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 02517-001, Brasil",-23.5063007,-46.6613822
-Mandaqui,"Conjunto Hospitalar do Mandaqui, 4301, Rua Voluntários da Pátria, Mandaqui, Santana, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 02401-400, Brasil",-23.4848679,-46.6314774
-Santana,"Hospital Santana, 71, Rua Doutor Osmar Marinho Couto, Vila Victória, Alto do Ipiranga, Mogi das Cruzes, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 08730-500, Brasil",-23.5333555,-46.2053989
-Vila Guilherme,"Hospital Hora Certa, 615, Rua João Ventura Batista, Bairro da Coroa, Vila Guilherme, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 02054-100, Brasil",-23.5162299,-46.6053872
-Vila Medeiros,"Hospital e Maternidade Nossa Senhora Aparecida, 25, Rua José Bonifácio Mori, Centro, Pirapozinho, Região Imediata de Presidente Prudente, Região Geográfica Intermediária de Presidente Prudente, São Paulo, Região Sudeste, 19200-000, Brasil",-22.2757218,-51.4942894
-Cidade Tiradentes,"Hospital Municipal Santa Marcelina Cidade Tiradentes - Carmem Prudente, 2100, Avenida dos Metalúrgicos, Jardim Santa Edwiges, Cidade Tiradentes, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 08471-000, Brasil",-23.596714,-46.4038679
-Ermelino Matarazzo,"Hospital Municipal Professor Doutor Alípio Corrêa Netto, 1989, Alameda Rodrigo de Brum, Ermelino Matarazzo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 03807-230, Brasil",-23.4996441,-46.4729162
-Guaianases,"Hospital Central de Guaianases, 189, Rua Cabo José Teixeira, Vila Yolanda, Lajeado, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 08451-010, Brasil",-23.5379017,-46.4031352
-Itaim Paulista,"Hospital Santa Marcelina do Itaim Paulista O.S.S, 6035, Avenida Marechal Tito, Vila Itaim, Itaim Paulista, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 08115-100, Brasil",-23.4924232,-46.3889814
-Itaquera,"HOSPITAL SANTA MARCELINA- ITAQUERA, 177, Rua Santa Marcelina, Parque do Carmo, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 08270-070, Brasil",-23.5542809,-46.4613548
-José Bonifácio,"Hospital Santo Expedito, 2705, Avenida Jacu-Pêssego, Itaquera, José Bonifácio, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 08260-005, Brasil",-23.5785166,-46.4422254
-São Lucas,"Hospital São Lucas, Rua São Jorge, Chácara Húngara, Centro, Diadema, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 09911-060, Brasil",-23.6860431,-46.6266712
-São Mateus,"Hospital Geral de São Mateus, 540, Rua Ângelo de Cândia, Jardim Imperador, São Mateus, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 03958-000, Brasil",-23.5947358,-46.4867109
-São Miguel,"Hospital, Rua Amazonas, Jardim Mauá 2, Nova Jaguariúna, Jaguariúna, Região Imediata de Campinas, Região Metropolitana de Campinas, Região Geográfica Intermediária de Campinas, São Paulo, Região Sudeste, 13911-112, Brasil",-22.7025495,-46.9953616
-Sapopemba,"Hospital Estadual de Sapopemba, 174, Rua Manuel França dos Santos, Jardim Sapopemba, Sapopemba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 03975-130, Brasil",-23.6106731,-46.4924833
-São Rafael,"Hospital São Rafael, Rua Coronel de Oscar Porto, Paraíso, Vila Mariana, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 04011-061, Brasil",-23.5796824,-46.6444935
-Vila Matilde,"Hospital Municipal Doutor Alexandre Zaio, 128, Rua Alves Maldonado, Cidade Patriarca, Vila Matilde, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 03560-110, Brasil",-23.5424,-46.5015296
-Tatuapé,"Hospital Municipal Doutor Cármino Caricchio, 4815, Avenida Celso Garcia, Parque São Jorge, Tatuapé, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 03064-000, Brasil",-23.5331239,-46.5663866
-Itaim Bibi,"Hospital e Maternidade São Luiz, 95, Rua Doutor Alceu de Campos Rodrigues, Vila Olímpia, Itaim Bibi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 04544-000, Brasil",-23.5908379,-46.6737583
-Campo Limpo,"Hospital de Clínicas de Campo Limpo, Avenida Alfried Krupp, Jardim Europa, Campo Limpo Paulista, Região Imediata de Jundiaí, Região Geográfica Intermediária de Campinas, São Paulo, Região Sudeste, 13232-041, Brasil",-23.2092096,-46.7723039
-Cidade Dutra,"Hospital Autódromo José Carlos Pace, Avenida Estação, Cidade Dutra, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 04815-180, Brasil",-23.7004643,-46.6958243
-Grajaú,"Hospital Geral do Grajaú Professor Liberato John Alphonse de Dio, 180, Rua Francisco Otávio Pacca, Parque das Nações Unidas, Grajaú, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 04822-120, Brasil",-23.7290263,-46.6908453
-Ipiranga,"Hospital Ipiranga, 28, Avenida Nazaré, Ipiranga, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 04262-000, Brasil",-23.584203,-46.6116295
-Jabaquara,"Hospital Municipal Arthur Ribeiro de Saboya, 860, Avenida Francisco de Paula Quintanilha Ribeiro, Vila do Encontro, Jabaquara, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 04330-020, Brasil",-23.6533422,-46.6456764
-Jardim Ângela,"Hospital Municipal Doutor Moysés Deutsch, 5203, Estrada do M'Boi Mirim, Jardim Ranieri, Jardim Ângela, Jardim Copacabana, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 04948-970, Brasil",-23.6920445,-46.7751722
-Jardim Paulista,"Pronto Socorro Vanderson César de Almeida, 460, Avenida Marginal Esquerda, Jardim Paulista, Jardim Itaparica, Aldeia, Barueri, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 06447-020, Brasil",-23.5407455,-46.88129
-Moema,"Hospital Alvorada Moema, 550, Avenida Ministro Gabriel de Rezende Passos, Indianópolis, Moema, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 04521-022, Brasil",-23.6014045,-46.6613649
-Morumbi,"Hospital, Avenida Professor Francisco Morato, Cidade Jardim, Morumbi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 05513-100, Brasil",-23.580373,-46.7107458
-Pedreira,"Hospital Geral de Pedreira, Rua João Francisco de Moura, Campinha, Campo Grande, Vila Arriete, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 04455-000, Brasil",-23.680832,-46.6762515
-Parelheiros,"Hospital Municipal de Parelheiros, 841, Rua Euzébio Coghi, Jardim Novo Parelheiros, Parelheiros, Vila Roschel, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 04883-290, Brasil",-23.8247733,-46.7266429
-Santo Amaro,"Hospital Santo Amaro, 40, Rua Quinto Bertoldi, Pitangueiras, Guarujá, Região Imediata de Santos, Região Metropolitana da Baixada Santista, Região Geográfica Intermediária de São Paulo, São Paulo, Região Sudeste, 11410-908, Brasil",-23.9908045,-46.253298
-Saúde,"Hospital Hora Certa, 615, Rua João Ventura Batista, Bairro da Coroa, Vila Guilherme, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 02054-100, Brasil",-23.5162299,-46.6053872
-Socorro,"Pronto Socorro Central - Santa Casa de São Paulo, 112, Rua Doutor Cesário Mota Júnior, Vila Buarque, Consolação, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 01222-020, Brasil",-23.5431724,-46.6499052
-Vila Andrade,"Hospital e Maternidade São Luiz Campinas, 863, Avenida Andrade Neves, Vila Itapura, Centro, Campinas, Região Imediata de Campinas, Região Metropolitana de Campinas, Região Geográfica Intermediária de Campinas, São Paulo, Região Sudeste, 13070-000, Brasil",-22.9014545,-47.0710706
-Vila Mariana,"Hospital e Maternidade Sepaco Vila Mariana, 4210, Rua Vergueiro, Vila Mariana, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 04102-900, Brasil",-23.595286,-46.6275975
-Vila Sônia,"Unidade de Pronto Atendimento Nestor Longatto, 106, Rua Brigadeiro Eduardo Gomes, Vila Sônia, Santa Terezinha de Piracicaba, Piracicaba, Região Imediata de Piracicaba, Região Metropolitana de Piracicaba, Região Geográfica Intermediária de Campinas, São Paulo, Região Sudeste, 13408-212, Brasil",-22.6714592,-47.6932632
-Alto de Pinheiros,"UTI Hospital de Caridade, Rua Sinharinha Frota, Centro, Matão, Região Imediata de Araraquara, Região Geográfica Intermediária de Araraquara, São Paulo, Região Sudeste, 15990-050, Brasil",-21.6050986,-48.3681137
-Anhanguera,"Unimed Anhanguera Cooperativa de Trabalho Medico, 1530, Avenida Doutor Jambeiro Costa, Jardim Alvorada, Leme, Região Imediata de Araras, Região Metropolitana de Piracicaba, Região Geográfica Intermediária de Campinas, São Paulo, Região Sudeste, 13610-235, Brasil",-22.199295,-47.3923027
-Brasilândia,"Hospital Doutor Adib Jatene, Avenida Michihisa Murata, Jardim Brasilândia, Freguesia do Ó, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 02834-090, Brasil",-23.476544,-46.6980006
-Butantã,"Hospital Luz Butantã, 719, Avenida Professor Francisco Morato, Cidade Jardim, Morumbi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 05513-000, Brasil",-23.578184,-46.7081152
-Cachoeirinha,"Hospital Maternidade Cachoeirinha, 3100, Avenida Deputado Emílio Carlos, Cachoeirinha, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 02765-050, Brasil",-23.4801311,-46.6715317
-Jaraguá,"UPA City Jaraguá, Estrada das Taipas, Parada de Taípas, City Jaraguá, Jaraguá, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 02996-165, Brasil",-23.4415466,-46.7337377
-Jaguara,"Hospital Saint Patrick Jaguara, 616, Avenida Cândido Portinari, Jardim Santo Elias, Vila Jaguara, Jaguara, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 05114-000, Brasil",-23.5082792,-46.7523764
-Lapa,"Unidade de Pronto Atendimento Lapa, 313, Avenida Queiroz Filho, Vila Hamburguesa, Vila Leopoldina, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 05305-007, Brasil",-23.5378475,-46.7223793
-Perdizes,"Pronto Socorro Itamaraty Perdizes, 1300, Rua João Ramalho, Pompéia, Perdizes, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 05008-002, Brasil",-23.5326054,-46.6774082
-Pinheiros,"Centro de Saúde Doutor Victor Araujo H Mello Pinheiros, 789, Rua Ferreira de Araújo, Pinheiros, Bairro de Pinheiros, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 05428-002, Brasil",-23.5645875,-46.6975363
-Pirituba,"Hospital Municipal Doutor José Soares Hungria, 100, Avenida Menotti Laudisio, Jardim Líbano, Pirituba, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 02945-000, Brasil",-23.4845293,-46.7275153
-Raposo Tavares,"Hospital Vera Cruz, Rodovia Raposo Tavares, Portal da Raposo, Residencial Saint Patrick II, Sorocaba, Região Imediata de Sorocaba, Região Metropolitana de Sorocaba, Região Geográfica Intermediária de Sorocaba, São Paulo, Região Sudeste, 18052-775, Brasil",-23.5133043,-47.5424709
-Rio Pequeno,"Unidade de Pronto Atendimento Rio Pequeno, Rua José Vicente da Cruz, Jardim Ester, Parque dos Príncipes, Rio Pequeno, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 05372-110, Brasil",-23.5763145,-46.7650113
-São Domingos,"Hospital São Domingos, 255, Rua Doutor Cervantes Ângulo, Jardim Brasil, Parque Residencial Joaquim Lopes, Catanduva, Região Imediata de Catanduva, Região Geográfica Intermediária de São José do Rio Preto, São Paulo, Região Sudeste, 15800-620, Brasil",-21.1555148,-48.9853357
-Vila Leopoldina,"Hospital SBC Vila Leopoldina, 320, Rua Blumenau, Vila Hamburguesa, Vila Leopoldina, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 05318-040, Brasil",-23.5376431,-46.7285065
-Perus,"Unidade de Pronto de Atendimento Doutor Luiz Antônio de Abreu Sampaio Dora, Rua Estevan Ribeiro Resende, Perus, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, 05202-140, Brasil",-23.4007278,-46.7471306
+No,CNES,Nome do Hospital,Modalidade,CRS,Nome do Hospital DIA,Instituição,Observação,Tipo,Quantidade,Modalidade /CRS
+1.0,2082829,HOSP MUNICIPAL PROF. ALÍPIO CORREA NETTO - ERMELINO MATARAZZO,Administração Direta,,,,,,,
+2.0,2077639,HOSP MUNICIPAL PROF. DR. WALDOMIRO DE PAULA - ITAQUERA/PLANALTO,Administração Direta,,,,,,,
+3.0,2080583,HOSP MUNICIPAL TIDE SETUBAL - SÃO MIGUEL,Administração Direta,,,,,,,
+4.0,2079186,HOSP MUNICIPAL E MATERN ESC DR. MÁRIO DE M A DA SILVA - CACHOEIRINHA,Administração Direta,,,,,,,
+5.0,2077450,HOSP MUNICIPAL DR. JOSÉ SOARES HUNGRIA - PIRITUBA,Administração Direta,,,,,,,
+6.0,2075717,HOSP MUNICIPAL PROF. MARIO DEGNI - JARDIM SARAH,Administração Direta,,,,,,,
+7.0,2084473,HOSP MUNICIPAL DR. IGNÁCIO PROENÇA DE GOUVEA,Administração Direta,,,,,,,
+8.0,2080346,HOSP MUNICIPAL DR. CÁRMINO CARICCHIO - TATUAPÉ,Administração Direta,,,,,,,
+9.0,2080788,HOSP MUNICIPAL DR. ALEXANDRE ZAIO - VILA NHOCUNÉ,Administração Direta,,,,,,,
+10.0,2081970,HOSP MUNICIPAL DR. ARTHUR RIBEIRO SABOYA - JABAQUARA,Administração Direta,,,,,,,
+11.0,2084139,HOSP MUNICIPAL DR. BENEDICTO MONTENEGRO - JARDIM IVA,Administração Direta,,,,,,,
+12.0,2786680,HOSP MUNICIPAL DR. FERNANDO MAURO PIRES DA ROCHA - CAMPO LIMPO,Administração Direta,,,,,,,
+13.0,102075,HOSP MUNICIPAL SANTA DULCE DOS POBRES - BELA VISTA,"Administração  - OrganizaçõesSociais - OSS",,,,,,,
+14.0,2078325,HOSP MUNICIPAL INFANTIL MENINO JESUS,"Administração  - OrganizaçõesSociais - OSS",,,,,,,
+15.0,5420938,HOSP MUNICIPAL CARMEN PRUDENTE - CIDADE TIRADENTES,"Administração  - OrganizaçõesSociais - OSS",,,,,,,
+16.0,102105,HOSP MUNICIPAL DR. ADIB JATENE - BRASILÂNDIA,"Administração  - OrganizaçõesSociais - OSS",,,,,,,
+17.0,3212130,HOSP MUNICIPAL VEREADOR JOSÉ STOROPOLLI - VILA MARIA,"Administração  - OrganizaçõesSociais - OSS",,,,,,,
+18.0,6998194,HOSP MUNICIPAL SOROCABANA,"Administração  - OrganizaçõesSociais - OSS",,,,,,,
+19.0,7992890,HOSP MUNICIPAL CAPELA DO SOCORRO,"Administração  - OrganizaçõesSociais - OSS",,,,,,,
+20.0,5718368,HOSP MUNICIPAL DR MOYSES DEUTSCH - M BOI MIRIM,"Administração  - OrganizaçõesSociais - OSS",,,,,,,
+21.0,161438,HOSP MUNICIPAL GUARAPIRANGA,"Administração  - OrganizaçõesSociais - OSS",,,,,,,
+22.0,9465464,HOSP MUNICIPAL JOSANIAS CASTANHA BRAGA - PARELHEIROS,"Administração  - OrganizaçõesSociais - OSS",,,,,,,
+23.0,7711980,"HOSP MUNICIPAL DR. GILSON DE CASSIA M. DE CARVALHO - VILA SANTACATARINA","Administração  - OrganizaçõesSociais - OSS",,,,,,,
+24.0,2076896,HOSP SÃO LUIZ GONZAGA,"Administração  - OrganizaçõesSociais - OSS",,,,,,,
+25.0,2078570,HOSP CANTAREIRA,"Administração  - OrganizaçõesSociais - OSS",,,,,,,
+26.0,2077388,HOSP MAT AMPARO MATERNAL,"Termo de Colaboração -Organização da SociedadeCivil - OSC",,,,,,,
+27.0,2752077,HOSPITAL DO SERVIDOR PÚBLICO MUNICIPAL - HSPM,Autarquia,,,,,,,
+1.0,6136028,,,LESTE,HOSPITAL DIA - ITAIM PAULISTA,,,,,
+2.0,6391869,,,LESTE,HOSPITAL DIA - SAO MATEUS DR HENRIQUE C GONCALVES,,,,,
+3.0,2751976,,,LESTE,HOSPITAL DIA - SAO MIGUEL DR TITO LOPES DA SILVA,,,,,
+4.0,7019076,,,NORTE,HOSPITAL DIA - BRASILANDIA,,,,,
+5.0,7979649,,,NORTE,HOSPITAL DIA - VILA GUILHERME,,,,,
+6.0,2027240,,,OESTE,HOSPITAL DIA - BUTANTÃ,,,,,
+7.0,6998194,,,OESTE,HOSP MUNICIPAL SOROCABANA (Hospital Dia anexo ao Hospital),,,,,
+8.0,2751860,,,SUDESTE,HOSPITAL DIA - FLÁVIO GIANNOTTI,,,,,
+9.0,2751852,,,SUDESTE,HOSPITAL DIA - VILA PRUDENTE,,,,,
+10.0,6135749,,,SUDESTE,HOSPITAL DIA - MOOCA,,,,,
+11.0,2751933,,,SUDESTE,HOSPITAL DIA - PENHA,,,,,
+12.0,6998178,,,SUL,HOSPITAL DIA - CAMPO LIMPO - JARDIM PIRAJUSSARA,,,,,
+13.0,2751925,,,SUL,HOSPITAL DIA - CIDADE ADEMAR,,,,,
+14.0,2091658,,,SUL,HOSPITAL DIA - M BOI MIRIM I - JARDIM IBIRAPUERA,,,,,
+15.0,7378394,,,SUL,HOSPITAL DIA - M BOI MIRIM II - VERA CRUZ,,,,,
+16.0,9950931,,,SUL,HOSPITAL DIA - SANTO AMARO,,,,,
+17.0,7992890,,,SUL,HOSP MUNICIPAL CAPELA DO SOCORRO (Hospital Dia anexo ao Hospital),,,,,
+1.0,3210022,,,,,ABADS - ASSOCIAÇÃO BRASILEIRA DE ASSISTENCIA  DESENVOLVIMENTO SOCIAL,,,,
+2.0,2089084,,,,,ADLM SERVICOS MEDICOS S C LTDA - INSTITUTO RUBEM BERTA,,,,
+3.0,2089025,,,,,AFIP - ASSOCIAÇÃO FUNDO DE INCENTIVO À PESQUISA,,,,
+4.0,7385978,,,,,ASSOCIAÇÃO BENEFICENTE EBENEZER - CIES,,,,
+5.0,2081288,,,,,ASSOCIAÇÃO BENEFICENTE SIRIA – HOSPITAL DO CORAÇÃO,,,,
+6.0,2091399,,,,,ASSOCIAÇÃO BENEFICENTE SOCIAL NOSSA SENHORA DO PARI,,,,
+7.0,2089572,,,,,ASSOCIAÇÃO CRUZ VERDE,,,,
+8.0,2077655,,,,,ASSOCIAÇÃO DE ASSISTÊNCIA A CRIANÇA DEFICIENTE-AACD,,,,
+9.0,2091593,,,,,ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE SÃO PAULO - APAE,,,,
+10.0,2028182,,,,,"ASSOCIAÇÃO DOS CAVALEIROS DA SOBERANA ORDEM MILITAR DE MALTA DE SÃO PAULO E BRASILMERIDIONAL",,,,
+11.0,5130883,,,,,ASSOCIAÇÃO HOSPITALAR SAÚDE DOS OLHOS,,,,
+12.0,7861249,,,,,AURI MEDICINA DIAGNÓSTICA LTDA,,,,
+13.0,2089777,,,,,BENEFICENCIA NIPO BRASILEIRA DE SAO PAULO,,,,
+14.0,2076985,,,,,CASA DA CRIANÇA BETINHO,,,,
+15.0,9270132,,,,,CENTRO DE APOIO A CRIANCA COM ANOMALIA UROLOGICA - CACAU,,,,
+16.0,2077752,,,,,CENTRO DE ESTUDOS HOSPITAL MONUMENTO,,,,
+17.0,5598419,,,,,CENTRO OFTALMOLOGICO PAULISTA CLINICA E CIRURGIA OCULAR LTDA,,,,
+18.0,6122205,,,,,CENTRO SOCIAL NOSSA SENHORA DA PENHA - CENHA,,,,
+19.0,7330847,,,,,CLÍNICA DE DIAGNÓSTICOS DR. LUIZ SCOPPETTA LTDA,,,,
+20.0,483214,,,,,EL DIAGNOSTICOS JABAQUARA LTDA,,,,
+21.0,7582617,,,,,EL DIAGNOSTICOS LTDA,,,,
+22.0,2077531,,,,,FUNDAÇÃO ANTONIO PRUDENTE – A.C. CAMARGO CANCER CENTER,,,,
+23.0,3044742,,,,,FUND INST. DE PESQUISA E ESTUDO DE DIAGNOSTICO POR IMAGEM - FIDI / CL. FIDI,,,,
+24.0,2688530,,,,,FUNDAÇÃO SÃO PAULO/ DERDIC,,,,
+25.0,2089696,,,,,GRUPO DE APOIO AO ADOLESCENTE E A CRIANÇA COM CANCER – GRAACC,,,,
+26.0,2078597,,,,,HOSPITAL ALEMÃO OSWALDO CRUZ,,,,
+27.0,2089785,,,,,HOSPITAL DO RIM E HIPERTENSÃO DA FUNDAÇÃO OSWALDO RAMOS,,,,
+28.0,2077507,,,,,HOSPITAL LEFORTE LIBERDADE S.A,,,,
+29.0,2077590,,,,,INSTITUTO BRASILEIRO DE CONTROLE DO CÂNCER-IBCC,,,,
+30.0,2091550,,,,,INSTITUTO CEMA DE OFTALMOLOGIA E OTORRINOLARINGOLOGIA,,,,
+31.0,3306704,,,,,INSTITUTO DE MEDICINA DIGITAL DIMEDI LTDA,,,,
+32.0,2688638,,,,,INSTITUTO SUEL ABUJAMRA,,,,
+33.0,3651185,,,,,IPEPO - INSTITUTO PAULISTA DE ESTUDO E PESQUISA EM OFTALMOLOGIA,,,,
+34.0,3290689,,,,,RADIOCLINICA TADAO MORI / SANTA CRUZ,,,,
+35.0,2080575,,,,,REAL E BENEMÉRITA ASSOC.PORTUGUESA DE BENEFICÊNCIA -HOSP SÃO JOAQUIM,,,,
+36.0,2075962,,,,,SANTA CASA DE MISERICORDIA DE SANTO AMARO,,,,
+37.0,2067803,,,,,SECONCI - SERVIÇO SOCIAL DA CONSTRUÇÃO CIVIL DO ESTADO DE SÃO PAULO,,,,
+38.0,2058391,,,,,SOCIEDADE BENEFICENTE ISRAELITA BRASILEIRA HOSPITAL ALBERT EINSTEN,,,,
+39.0,2082624,,,,,SOCIEDADE BRASILEIRA E JAPONESA DE BENEFICENCIA SANTA CRUZ,,,,
+40.0,7527004,,,,,SUA IMAGEM DIAGNOSTICOS MEDICOS LTDA,,,,
+41.0,3621847,,,,,VITALCOR CLINICA CARDIOLOGICA LTDA,,,,
+1.0,2090147,,,,,BAXTER RCS CENTRO DE CUIDADO RENAL LTDA,,,,
+2.0,2048116,,,,,CENTRO DE NEFROLOGIA E DIALISE FRESENIUS MEDICAL CARE MORUMBI,,,,
+3.0,2058553,,,,,CETENE - CENTRO DE TERAPIA NEFROLÓGICA LTDA,,,,
+4.0,2073471,,,,,CLINICA E NEFROLOGIA LESTE LTDA,,,,
+5.0,6253415,,,,,CLINICA MÉDICA E NEFROLOGICA DA LAPA S/S,,,,
+6.0,6228194,,,,,CLINICA NEFROLÓGICA DO ITAIM PAULISTA LTDA,,,,
+7.0,7499078,,,,,CLINICA NEFROLOGICA SANTA CATARINA LTDA,,,,
+8.0,2048094,,,,,CLINICA NEFROLÓGICA SÃO MIGUEL,,,,
+9.0,5550637,,,,,DAVITA BRASIL PARTICIPAÇÕES E SERVIÇOS DE NEFROLOGIA LTDA - UNIDADE JOÃO DIAS,,,,
+10.0,2091615,,,,,DAVITA BRASIL PARTICIPAÇÕES E SERVIÇOS DE NEFROLOGIA LTDA - UNIDADE PENHA,,,,
+11.0,2048302,,,,,DAVITA BRASIL PARTICIPAÇÕES E SERVIÇOS DE NEFROLOGIA LTDA - UNIDADE PERDIZES,,,,
+12.0,2039559,,,,,DAVITA LAPA,,,,
+13.0,3064174,,,,,DAVITA SERV. DE NEFROLOGIA VILA ARICANDUVA,,,,
+14.0,6207693,,,,,DAVITA SERVIÇOS DE NEFROLOGIA JARDIM DAS IMBUIAS LTDA,,,,
+15.0,2057077,,,,,DAVITA SERVIÇOS DE NEFROLOGIA SANTANA LTDA,,,,
+16.0,3524086,,,,,DAVITA SERVIÇOS DE NEFROLOGIA VILA OLIMPIA LTDA,,,,
+17.0,2091569,,,,,DIAVERUM ASSISTENCIA MEDICA E NEFROLOGICA LTDA,,,,
+18.0,2071282,,,,,ENESP EQUIPE NEFROLÓGICA DE SÃO PAULO LTDA,,,,
+19.0,2089785,,,,,HOSPITAL DO RIM E HIPERTENSÃO DA FUNDAÇÃO OSWALDO RAMOS,,,,
+20.0,7602235,,,,,NEFROCLÍNICA IPIRANGA LTDA,,,,
+21.0,2048108,,,,,NEFROCOR E URO SERVIÇOS MÉDICOS LTDA,,,,
+22.0,9989579,,,,,NEPHRO GROUP CLINICA DE DIÁLISE LTDA,,,,
+23.0,2032228,,,,,NEPHRON ASSISTENCIA NEFROLOGICA LTDA,,,,
+24.0,2080575,,,,,REAL E BENEMÉRITA ASSOC.PORTUGUESA DE BENEFICÊNCIA - HOSPITAL SÃO JOAQUIM,,,,
+25.0,6213529,,,,,RENALCARE SERVIÇOS MEDICOS LTDA,,,,
+26.0,6233422,,,,,RENALCLASS - CLÍNICA E NEFROLOGIA LTDA-ME,,,,
+27.0,2075962,,,,,SANTA CASA DE MISERICORDIA DE SANTO AMARO,,,,
+28.0,2071991,,,,,SENESP - SERVIÇO DE NEFROLOGIA DE SÃO PAULO LTDA,,,,
+29.0,2082624,,,,,SOCIEDADE BRASILEIRA E JAPONESA DE BENEFICENCIA SANTA CRUZ,,,,
+30.0,2089343,,,,,UNTR - UNIDADE DE NEFROLOGIA DIALISE E TRANSPLANTE RENAL S/C LTDA,,,,
+1.0,2077469,,,,,ASSOCIAÇÃO BENEFICENTE NOSSA SENHORA DE NAZARÉ,,,,
+2.0,2078589,,,,,ASSOCIAÇÃO CRUZ AZUL DE SÃO PAULO - HOSPITAL E MATERNIDADE SANTA MARIA,,,,
+3.0,2089777,,,,,BENEFICENCIA NIPO BRASILEIRA DE SAO PAULO,,,,
+4.0,3166597,,,,,INSTITUIÇÃO PAULISTA ADVENTISTA DE EDUCAÇÃO E ASSISTENCIA SOCIAL,,,,
+5.0,2089602,,,,,"SERVIÇO SOCIAL DA INDÚSTRIA DO PAPEL, PAPELÃO E CORTIÇA DO ESTADO DE SÃO PAULO - SEPACO",,,,
+6.0,2082624,,,,,SOCIEDADE BRASILEIRA E JAPONESA DE BENEFICENCIA SANTA CRUZ,,,,
+7.0,2079127,,,,,SOCIEDADE BENEFICENTE DE SENHORAS HOSPITAL SÍRIO LIBANES,,,,
+8.0,"7252455 (Vergueiro);7252439 (Memorial);7252463 (Vila Maria)",,,,,ASSOCIAÇÃO EDUCACIONAL NOVE DE JULHO - UNINOVE,,,,
+9.0,7950098,,,,,ASSOCIAÇÃO UMANE  - ANTIGO SOCIEDADE HOSPITAL SAMARITANO,,,,
+10.0,6123740,,,,,FUNDAÇÃO CRIANÇA - ITACI,,,,
+11.0,NA,,,,,BOEHRINGER INGELHEIM,,,,
+12.0,6935907,,,,,ASF - ASSOCIAÇÃO SAÚDE DA FAMÍLIA,,,,
+13.0,3840719,,,,,CENTRO DE  ESTUDOS E PESQUISAS DR JOÃO AMORIM - CEJAM,,,,
+14.0,7097670,,,,,INSTITUTO DE RESPONSABILIDADE SOCIAL SIRIO LIBANES,,,,
+15.0,7994184,,,,,INSTITUTO LILIAN LOPES DE EDUCAÇÃO E MEDICINA LTDA - ECOKID,,,,
+16.0,7291191,,,,,ISCP - SOCIEDADE EDUCACIONAL - ANHEMBI MORUMBI -CIS,,,,
+,,,,,,,,,,
+1.0,7644167,,TERMO DE CONTRAPARTIDA,,,REDE MORIAH SAÚDE,"UTILIZAÇÃO DE ESPAÇO AEREOPARA PASSARELA",,,
+2.0,2058391,,TERMO DE CONTRAPARTIDA,,,"SOCIEDADE BENEFICENTE ISRAELITABRASILEIRA HOSPITAL ALBERTEINSTEN","UTILIZAÇÃO DE ESPAÇO AEREOPARA PASSARELA",,,
+3.0,2688506,,TERMO DE CONTRAPARTIDA,,,"ASSOCIAÇÃO PAULISTA DECIRURGIÕES DENTISTAS - APCD",CESSÃO DE USO DE IMÓVEL,,,
+4.0,255688,,TERMO DE CONTRAPARTIDA,,,HOSPITAL SANTA PAULA,"CONCESSÃO DE USO DE ESPAÇOAÉREO RUA ALVORADA",,,
+5.0,2077590,,"CONTRAPARTIDAPREVISTA EM CONTRATO23/2023",,,"IBCC - INSTITUTO BRASILEIRO DECONTROLE DO CÂNCER/São Camilo","CONCESSÃO DE USO DE ÁREAMUNICIPAL",,,
+6.0,2077655,,"CONTRAPARTIDAPREVISTA EM CONVÊNIO03/2019",,,"AACD - ASSOCIAÇÃO DE ASSISTÊNCIA ACRIANÇA DEFICIENTE","CONCESSÃO DE ÁREA LOCALZADANA RUA PEDRO DE TOLEDO",,,
+7.0,2688565,,TERMO DE CONTRAPARTIDA,,,HOSPITAL SÃO CAMILO - POMPEIA,"PERMISSÃO DE USO DE ÁREAMUNICIPAL AÉREA",,,
+8.0,2089610,,TERMO DE CONTRAPARTIDA,,,HOSPITAL EDMUNDO VASCONCELOS,"CONCESSÃO DE ÁREA MUNICIPAL(80 ANOS)",,,
+,,,,,,,,Hospital Municipal,12,Administração Direta
+,,,,,,,,,13,"Administração  - OrganizaçõesSociais - OSS"
+,,,,,,,,,1,"Termo de Colaboração - Organizaçãoda Sociedade Civil - OSC"
+,,,,,,,,,1,Autarquia
+,,,,,,,,Total de Hospital Munucipal27,,
+,,,,,,,,Hospital Dia,3,Leste
+,,,,,,,,,2,Norte
+,,,,,,,,,2,Oeste
+,,,,,,,,,4,Sudeste
+,,,,,,,,,6,Sul
+,,,,,,,,Total de Hospital Dia17,,
+,,,,,,,,Serviços da Rede Complementar,41,
+,,,,,,,,Total de Serviços da Rede Complementar41,,
+,,,,,,,,"Serviços de Diálise da Rede Complementar -TRS  (Terapia Renal Substitutiva)",30,
+,,,,,,,,"Total de Serviços de Diálise da Rede Complementar -30TRS  (Terapia Renal Substitutiva)",,
+,,,,,,,,Acordos de Cooperação - Parcerias,16,
+,,,,,,,,Total de Acordos de Cooperação - Parcerias16,,
+,,,,,,,,Termos de Contrapartida,6,Termo de Contrapartida
+,,,,,,,,2,"Contrapartida prevista emContrato/Convênio",
+,,,,,,,,Total de Termos de Contrapartida8,,
